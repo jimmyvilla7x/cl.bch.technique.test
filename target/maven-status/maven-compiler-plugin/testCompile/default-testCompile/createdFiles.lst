@@ -1,1 +1,3 @@
-cl/bch/technique/test/test/TestApplicationTests.class
+cl/bch/technique/test/TestApplicationTests.class
+cl/bch/technique/test/services/TestClienteServiceImpl.class
+cl/bch/technique/test/controllers/TestClienteController.class

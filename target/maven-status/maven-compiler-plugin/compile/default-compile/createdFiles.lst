@@ -1,1 +1,13 @@
-cl/bch/technique/test/test/TestApplication.class
+cl/bch/technique/test/dtos/ClienteRq.class
+cl/bch/technique/test/TestApplication.class
+cl/bch/technique/test/enums/ECatalogo.class
+cl/bch/technique/test/controllers/ClienteController.class
+cl/bch/technique/test/util/JwtUtil.class
+cl/bch/technique/test/dtos/LoginRq.class
+cl/bch/technique/test/config/SecurityConfig.class
+cl/bch/technique/test/dtos/ErrorRs.class
+cl/bch/technique/test/dtos/LoginRs.class
+cl/bch/technique/test/services/impl/ClienteServiceImpl.class
+cl/bch/technique/test/services/ClienteService.class
+cl/bch/technique/test/exceptions/CustomException.class
+cl/bch/technique/test/dtos/ClienteRs.class

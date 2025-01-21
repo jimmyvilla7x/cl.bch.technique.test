@@ -1,1 +1,16 @@
-/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/test/TestApplication.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/TestApplication.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/config/ClienteConfig.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/config/SecurityConfig.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/controllers/ClienteController.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/dtos/ClienteRq.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/dtos/ClienteRs.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/dtos/ErrorRs.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/dtos/LoginRq.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/dtos/LoginRs.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/enums/ECatalogo.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/exceptions/CustomException.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/services/ClienteLoader.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/services/ClienteService.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/services/impl/ClienteLoaderImpl.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/services/impl/ClienteServiceImpl.java
+/Users/jimmy.villa/Proyectos/cl.bch.technique.test/src/main/java/cl/bch/technique/test/util/JwtUtil.java
